@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is João Pinho
+
 <!--
 **joaoffpinho/joaoffpinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
